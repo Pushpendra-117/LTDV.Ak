@@ -30,7 +30,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['treding-toc.onrender.com','localhost', '127.0.0.1',
 'https://treding-ak.onrender.com/']
 =======
-ALLOWED_HOSTS = ['treding-toc.onrender.com','localhost', '127.0.0.1','https://treding-ak.onrender.com/']
+ALLOWED_HOSTS = ['treding-toc.onrender.com','localhost', '127.0.0.1','https://treding-ak.onrender.com/','https://treding-ak.onrender.com/']
 
 >>>>>>> 168a761 (Updated settings)
 ALLOWED_HOSTS = ['treding-ak-2.onrender.com']
