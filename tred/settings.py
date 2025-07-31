@@ -27,13 +27,16 @@ SECRET_KEY = 'django-insecure-+3z0i=-a3+@1vpg@w$c8b#n@#tb-ekr048t0@kod8t9r5py#w^
 DEBUG = True
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['treding-toc.onrender.com','localhost', '127.0.0.1',
 'https://treding-ak.onrender.com/']
 =======
 ALLOWED_HOSTS = ['treding-toc.onrender.com','localhost', '127.0.0.1','https://treding-ak.onrender.com/','https://treding-ak.onrender.com/']
+=======
+ALLOWED_HOSTS = ['treding-toc.onrender.com','localhost', '127.0.0.1','https://ltdv-ak.onrender.com']
 
->>>>>>> 168a761 (Updated settings)
-ALLOWED_HOSTS = ['treding-ak-2.onrender.com']
+>>>>>>> d8ea6dc (Update settings.py for Render)
+
 
 # Application definition
 
