@@ -29,11 +29,11 @@ DEBUG = True
 #ALLOWED_HOSTS = ['treding-toc.onrender.com','localhost', '127.0.0.1',
 'https://treding-ak.onrender.com/']
 
-#ALLOWED_HOSTS = ['treding-toc.onrender.com','localhost', '127.0.0.1','https://treding-ak.onrender.com/','https://treding-ak.onrender.com/']
+#ALLOWED_HOSTS = ['treding-toc.onrender.com','localhost', '127.0.0.1','https://treding-ak.onrender.com/''https://treding-ak.onrender.com/']
 
 ALLOWED_HOSTS = ['treding-toc.onrender.com','localhost', '127.0.0.1','https://ltdv-ak.onrender.com']
 
->>>>>>> d8ea6dc (Update settings.py for Render)
+#>>>>>>> d8ea6dc (Update settings.py for Render)
 
 
 # Application definition
