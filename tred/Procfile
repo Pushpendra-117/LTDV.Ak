@@ -1,4 +1,2 @@
-web: gunicorn treding:app
-gunicorn tred:app
 gunicorn app:app
-
+web: gunicorn treding:app
