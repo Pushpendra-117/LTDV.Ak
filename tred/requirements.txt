@@ -3,9 +3,9 @@ Django==5.2.3
 gunicorn==23.0.0
 packaging==25.0
 sqlparse==0.5.3
-<<<<<<< HEAD
 
-=======
+
+
 Flask
 gunicorn
 >>>>>>> a872446 (Fix Procfile and app name for Render)
