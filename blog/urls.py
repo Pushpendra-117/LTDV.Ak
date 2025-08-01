@@ -1,5 +1,5 @@
 from django.urls import path
-from your_application import views
+from blog import views
 urlpatterns = [
     path('',views.index,name="index"),
 ]
