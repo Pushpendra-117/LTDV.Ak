@@ -1,2 +1,4 @@
 web: gunicorn tred.wsgi
+web: gunicorn tred.wsgi
+
 
