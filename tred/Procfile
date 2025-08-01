@@ -1,2 +1,2 @@
-gunicorn app:app
-web: gunicorn treding:app
+web: gunicorn tred.wsgi
+
